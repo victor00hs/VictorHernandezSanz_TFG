@@ -20,7 +20,7 @@ def settings_st():
         menu_items={'About':"""
             ## Author: 
             ## **Víctor Hernández Sanz**
-            [Link to Github repository](https://github.com/victor00hs/TFG_Twitter)"""})
+            [Link to Github repository](https://github.com/victor00hs/VictorHernandezSanz_TFG)"""})
     # Style
     style = """ <style>
         /*Contenido de la pagina*/
